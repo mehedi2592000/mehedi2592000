@@ -3,8 +3,6 @@
 I am a Mehedi Hasan. And I am a full stack web developer and data scientist
 
 
-<!--
-**mehedi2592000/mehedi2592000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

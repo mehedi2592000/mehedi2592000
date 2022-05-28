@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Mehedi Hasan. And I am a full stack web developer and data scientist
+I am  Mehedi Hasan. And I am a full stack web developer and data scientist
 
 
 
